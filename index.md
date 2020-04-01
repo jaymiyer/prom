@@ -1,6 +1,10 @@
 
 <!DOCTYPE HTML>
-
+<!--
+	Ethereal by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
 <html>
 	<head>
 		<title>Ethereal by HTML5 UP</title>
@@ -111,7 +115,7 @@
 							<section class="panel banner color1 medium" id="q" style="display:none;">
 
 								<div class="intro joined">
-									<h1 class="major">Karina Yang,<br>Will you go to prom with me?</h1>
+									<h1 class="major">Ravdeep Warar,<br>Will you go to prom with me?</h1>
 									<p>-Dev</p>
 								</div>
 								<div class="inner columns divided">
@@ -286,7 +290,7 @@
 			$('#pswd').click(
 				function()
 				{
-					if($('#message').val() == "password:karinaboo")
+					if($('#message').val() == "password:heladas")
 					{
 						typed5.start();
 					}
